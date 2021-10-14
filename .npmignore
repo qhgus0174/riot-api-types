@@ -1,0 +1,8 @@
+src/
+.eslintignore
+.eslintrc
+.gitignore
+.prettierrc
+LICENSE
+tsconfig.json
+package.json
